@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - JK Cars</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fafafa;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #ff9800, #ff5722);
+      color: white;
+      padding: 30px 15px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 26px;
+    }
+    main {
+      max-width: 900px;
+      margin: 30px auto;
+      background: #fff;
+      padding: 25px 30px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
+    h2 {
+      color: #ff5722;
+      margin-top: 25px;
+      font-size: 20px;
+    }
+    p {
+      margin: 12px 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 15px 0;
+    }
+    table th, table td {
+      border: 1px solid #ddd;
+      padding: 10px;
+      text-align: left;
+    }
+    table th {
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      font-size: 14px;
+      background: #f4f4f4;
+      color: #555;
+    }
+    a {
+      color: #ff5722;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Privacy Policy</h1>
+    <p>Last Updated: 21 October 2025</p>
+  </header>
+
+  <main>
+    <h2>1. Introduction</h2>
+    <p>Welcome to <strong>JK Cars</strong> — a mobile application that helps users buy and sell cars and bikes in Jammu & Kashmir. 
+    Your privacy is very important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.</p>
+
+    <h2>2. Information We Collect</h2>
+    <p>We collect the following information to improve your experience and provide app functionality:</p>
+
+    <h3>a) Personal Information</h3>
+    <ul>
+      <li>Name</li>
+      <li>Contact Number</li>
+      <li>Email Address (if provided)</li>
+      <li>Profile or Dealer Information (showroom name, address, etc.)</li>
+    </ul>
+
+    <h3>b) Listing Information</h3>
+    <ul>
+      <li>Vehicle details (brand, model, price, year, etc.)</li>
+      <li>Uploaded images of vehicles</li>
+      <li>City or location (selected or detected)</li>
+    </ul>
+
+    <h3>c) Device & Technical Information</h3>
+    <ul>
+      <li>Device model and operating system</li>
+      <li>App version</li>
+      <li>Anonymous usage and crash analytics data</li>
+    </ul>
+
+    <h3>d) Location Data</h3>
+    <p>If you grant location permission, we use it only to detect your approximate city or district to improve the accuracy of listings. 
+    You can disable location access anytime from your device settings.</p>
+
+    <h2>3. How We Use the Information</h2>
+    <ul>
+      <li>To display and manage your vehicle listings</li>
+      <li>To improve app functionality and performance</li>
+      <li>To show nearby vehicles based on your location</li>
+      <li>To prevent fraud, spam, or misuse</li>
+      <li>To communicate updates and provide support</li>
+    </ul>
+    <p>We <strong>never sell or rent</strong> your personal data to any third party.</p>
+
+    <h2>4. Data Storage and Security</h2>
+    <p>Your data is stored securely on <strong>Google Firebase servers</strong>. Images are uploaded to Firebase Storage and other listing data is saved in Firestore. 
+    We implement access control and encryption wherever possible to protect your data from unauthorized access.</p>
+
+    <h2>5. Permissions We Use</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Permission</th>
+          <th>Purpose</th>
+          <th>Required?</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Location</td>
+          <td>To detect your city or district automatically</td>
+          <td>Optional</td>
+        </tr>
+        <tr>
+          <td>Camera</td>
+          <td>To take photos of vehicles for listings</td>
+          <td>Optional</td>
+        </tr>
+        <tr>
+          <td>Storage / Photos</td>
+          <td>To select and upload vehicle images</td>
+          <td>Optional</td>
+        </tr>
+        <tr>
+          <td>Internet</td>
+          <td>To connect to Firebase and fetch data</td>
+          <td>Required</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>6. Third-Party Services</h2>
+    <p>We use trusted third-party services that follow their own privacy and data policies:</p>
+    <ul>
+      <li><a href="https://firebase.google.com/support/privacy" target="_blank">Google Firebase (Authentication, Firestore, Storage, Analytics)</a></li>
+      <li><a href="https://policies.google.com/privacy" target="_blank">Google AdMob (Ads and Monetization)</a></li>
+    </ul>
+
+    <h2>7. Children’s Privacy</h2>
+    <p>Our app is not directed toward children under 13 years of age. We do not knowingly collect any information from minors.</p>
+
+    <h2>8. Your Rights</h2>
+    <ul>
+      <li>You can access or edit your listings anytime.</li>
+      <li>You can request deletion of your account or data by contacting us.</li>
+      <li>You can manage permissions (camera, location, storage) from your phone’s settings.</li>
+    </ul>
+
+    <h2>9. Contact Us</h2>
+    <p>If you have any questions, concerns, or data-related requests, please contact us:</p>
+    <p><strong>Email:</strong> <a href="mailto:support@jkcars.in">support@jkcars.in</a><br>
+    <strong>Location:</strong> Srinagar, Jammu & Kashmir, India</p>
+
+    <h2>10. Updates to This Policy</h2>
+    <p>We may update this Privacy Policy occasionally to reflect new features or legal requirements. 
+    Updates will be posted here with a new “Last Updated” date.</p>
+  </main>
+
+  <footer>
+    &copy; 2025 JK Cars. All rights reserved.
+  </footer>
+</body>
+</html>
